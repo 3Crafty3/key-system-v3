@@ -35,9 +35,9 @@ const (
 var (
 	DONATORVERSION = "v3.0.3"
 	webhookSecret  = ""
-	key            = []byte("iHOFtYu6Hv0kQz6%ZMf2G1!VM76aD2f!")
-	keyGenKey      = []byte("8If05g51m6uF&Oe#0QZGUb4#j2rKVizb")
-	keyStubKey     = []byte("8If05g51m6uF&Oe#0QZGUb4#j2rKVizb")
+	key            = []byte("NotKey")
+	keyGenKey      = []byte("NotKey")
+	keyStubKey     = []byte("NotKey")
 	IDENTITY       = "DARKHUB-" + VERSION + "-" + utils.RandString(40)
 )
 
